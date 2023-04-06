@@ -1,0 +1,11 @@
+
+# ignored files
+
+# Rust files
+target/ 
+Cargo.lock
+
+# Others
+username.txt
+
+
